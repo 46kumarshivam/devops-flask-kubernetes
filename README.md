@@ -1,16 +1,16 @@
-\# DevOps Flask Application Deployment 🚀
+ DevOps Flask Application Deployment 🚀
 
 
 
-!\[GitHub Repo Size](https://img.shields.io/github/repo-size/46kumarshivam/devops-flask-kubernetes) 
+[GitHub Repo Size](https://img.shields.io/github/repo-size/46kumarshivam/devops-flask-kubernetes) 
 
-!\[Language](https://img.shields.io/github/languages/top/46kumarshivam/devops-flask-kubernetes) 
+[Language](https://img.shields.io/github/languages/top/46kumarshivam/devops-flask-kubernetes) 
 
-!\[Issues](https://img.shields.io/github/issues/46kumarshivam/devops-flask-kubernetes)
+[Issues](https://img.shields.io/github/issues/46kumarshivam/devops-flask-kubernetes)
 
 
 
-\## Project Overview
+ Project Overview
 
 
 
@@ -18,13 +18,13 @@ This project demonstrates a \*\*full DevOps workflow\*\* with a Flask applicatio
 
 
 
-\- \*\*Docker\*\* containers
+ \*\*Docker\*\* containers
 
-\- \*\*Kubernetes\*\* deployment with Minikube
+ \*\*Kubernetes\*\* deployment with Minikube
 
-\- \*\*NodePort Service\*\* for accessing the app
+ \*\*NodePort Service\*\* for accessing the app
 
-\- Ready for CI/CD integration with Jenkins and monitoring with Prometheus/Grafana
+ Ready for CI/CD integration with Jenkins and monitoring with Prometheus/Grafana
 
 
 
